@@ -37,7 +37,8 @@ export default function Banner() {
           <div className=" flex sm:hidden text-xs">
             <select className="bg-slate-950 text-sm hover:cursor-pointer">
               <option>English</option>
-              <option>French</option>
+              <option>Urdu</option>
+              <option>Spanish</option>
             </select>
           </div>
         </div>
